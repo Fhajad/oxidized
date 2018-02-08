@@ -61,7 +61,8 @@
    * [8600](/lib/oxidized/model/coriant8600.rb)
    * [Groove](/lib/oxidized/model/coriantgroove.rb)
  * Cumulus
-   * [Linux](/lib/oxidized/model/cumulus.rb)
+   * [<3.4](/lib/oxidized/model/cumulus.rb)
+   * [>3.4](/lib/oxidized/model/cumulus_frr.rb)
  * DataCom
    * [DmSwitch 3000](/lib/oxidized/model/datacom.rb)
  * DCN
